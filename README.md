@@ -1,4 +1,4 @@
-# CN Lab 5 — IPv4 Address Classification
+# IPv4 Address Classification
 
 > Classful IPv4 analyzer · runs live in the browser  
 > *Computer Networks Lab · VIT*
