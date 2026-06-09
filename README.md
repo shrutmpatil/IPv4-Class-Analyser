@@ -1,7 +1,6 @@
 # IPv4 Address Classification
 
 > Classful IPv4 analyzer · runs live in the browser  
-> *Computer Networks Lab · VIT*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-7c6af7?style=flat-square&logo=github)](https://YOUR_USERNAME.github.io/cn-lab-5-ipv4-classifier/)
 [![RFC 791](https://img.shields.io/badge/Standard-RFC%20791-4ade80?style=flat-square)](https://datatracker.ietf.org/doc/html/rfc791)
