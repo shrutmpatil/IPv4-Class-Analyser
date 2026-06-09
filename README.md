@@ -132,7 +132,7 @@ cn-lab-5-ipv4-classifier/
 
 ### **Collaborators:**
 
-## 👥 Collaborators
+## 👥 Collaborators:
 
 <p align="center">
   <a href="https://github.com/shrutmpatil"><img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Shrut Patil GitHub"></a>
