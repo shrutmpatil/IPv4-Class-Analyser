@@ -12,7 +12,6 @@
 ## Live demo
 
 **[→ Open in browser](https://shrutmpatil.github.io/IPv4-Class-Analyser/)**  
-*(Replace `YOUR_USERNAME` with your GitHub username after deploying)*
 
 ---
 
