@@ -11,7 +11,7 @@
 
 ## Live demo
 
-**[→ Open in browser]([https://YOUR_USERNAME.github.io/cn-lab-5-ipv4-classifier/](https://shrutmpatil.github.io/IPv4-Class-Analyser/))**  
+**[→ Open in browser](https://shrutmpatil.github.io/IPv4-Class-Analyser/)**  
 *(Replace `YOUR_USERNAME` with your GitHub username after deploying)*
 
 ---
