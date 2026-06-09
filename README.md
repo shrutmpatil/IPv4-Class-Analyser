@@ -130,7 +130,6 @@ cn-lab-5-ipv4-classifier/
 - Network and host count formulas (`2ⁿ − 2`)
 - Special-purpose address ranges: loopback, multicast, experimental, reserved
 
-### **Collaborators:**
 
 ## 👥 Collaborators:
 
