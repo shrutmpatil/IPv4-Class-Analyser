@@ -8,6 +8,10 @@
 
 ---
 
+## Interface
+<img width="374" height="438" alt="image" src="https://github.com/user-attachments/assets/25ef0a2b-ca9b-4aa1-ba4d-cfecb4893672" />
+
+
 ## Live demo
 
 **[→ Open in browser](https://shrutmpatil.github.io/IPv4-Class-Analyser/)**  
